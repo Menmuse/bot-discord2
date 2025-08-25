@@ -1,0 +1,74 @@
+2025-08-23T12:19:39.759Z [DEBUG] [Autocomplete] Autocomplétion réussie | Data: {"commandName":"pdf","choicesCount":4}
+2025-08-23T12:19:42.325Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"pdf","userId":"1121597557160824883","guildId":"1369748793326698728"}
+2025-08-23T12:19:43.527Z [INFO] [ButtonHandler] Modale PDF affichée | Data: {"model":"AMIPARIS","fieldsCount":7,"userId":"1121597557160824883"}
+2025-08-23T12:19:43.527Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"pdf_modal_AMIPARIS","userId":"1121597557160824883"}
+2025-08-23T12:20:10.995Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_0","userId":"1121597557160824883"}
+2025-08-23T12:20:12.011Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"next_AMIPARIS_1","userId":"1121597557160824883"}
+2025-08-23T12:20:22.218Z [INFO] [ModalHandler] PDF généré avec succès | Data: {"model":"AMIPARIS","userId":"1121597557160824883","fieldsCount":7}
+2025-08-23T12:20:22.219Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_1","userId":"1121597557160824883"}
+2025-08-23T12:20:48.946Z [DEBUG] [Autocomplete] Autocomplétion réussie | Data: {"commandName":"pdf","choicesCount":4}
+2025-08-23T12:20:53.172Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"pdf","userId":"1121597557160824883","guildId":"1369748793326698728"}
+2025-08-23T12:20:55.169Z [WARN] [ButtonHandler] CustomId de bouton invalide | Data: {"customId":"pdf_modal_Ticket de caisse MONCLER","userId":"1121597557160824883"}
+2025-08-23T12:20:58.825Z [WARN] [ButtonHandler] CustomId de bouton invalide | Data: {"customId":"pdf_modal_Ticket de caisse MONCLER","userId":"1121597557160824883"}
+2025-08-23T12:21:07.123Z [DEBUG] [Autocomplete] Autocomplétion réussie | Data: {"commandName":"pdf","choicesCount":4}
+2025-08-23T12:21:09.464Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"pdf","userId":"1121597557160824883","guildId":"1369748793326698728"}
+2025-08-23T12:21:10.392Z [WARN] [ButtonHandler] CustomId de bouton invalide | Data: {"customId":"pdf_modal_Ticket de caisse MONCLER","userId":"1121597557160824883"}
+2025-08-23T13:42:27.857Z [DEBUG] [Autocomplete] Autocomplétion réussie | Data: {"commandName":"pdf","choicesCount":4}
+2025-08-23T13:42:30.467Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"pdf","userId":"1121597557160824883","guildId":"1369748793326698728"}
+2025-08-23T13:42:32.523Z [INFO] [ButtonHandler] Modale PDF affichée | Data: {"model":"AMIPARIS","fieldsCount":7,"userId":"1121597557160824883"}
+2025-08-23T13:42:32.524Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"pdf_modal_AMIPARIS","userId":"1121597557160824883"}
+2025-08-23T13:42:48.540Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_0","userId":"1121597557160824883"}
+2025-08-23T13:42:49.992Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"next_AMIPARIS_1","userId":"1121597557160824883"}
+2025-08-23T13:42:57.090Z [INFO] [ModalHandler] PDF généré avec succès | Data: {"model":"AMIPARIS","userId":"1121597557160824883","fieldsCount":7}
+2025-08-23T13:42:57.091Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_1","userId":"1121597557160824883"}
+2025-08-23T13:46:54.228Z [DEBUG] [Autocomplete] Autocomplétion réussie | Data: {"commandName":"pdf","choicesCount":4}
+2025-08-23T13:47:12.460Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"pdf","userId":"1121597557160824883","guildId":"1369748793326698728"}
+2025-08-23T13:47:12.671Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"pdf","userId":"1121597557160824883","guildId":"1369748793326698728"}
+2025-08-23T13:47:13.988Z [ERROR] [ButtonHandler] Erreur lors de la création de la modale PDF | Data: {"model":"AMIPARIS","error":"Unknown interaction"}
+2025-08-23T13:47:14.004Z [INFO] [ButtonHandler] Modale PDF affichée | Data: {"model":"AMIPARIS","fieldsCount":7,"userId":"1121597557160824883"}
+2025-08-23T13:47:14.005Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"pdf_modal_AMIPARIS","userId":"1121597557160824883"}
+2025-08-23T13:47:14.145Z [ERROR] [ButtonHandler] Impossible de répondre avec un message d'erreur | Data: {"error":"Interaction has already been acknowledged."}
+2025-08-23T13:47:14.146Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"pdf_modal_AMIPARIS","userId":"1121597557160824883"}
+2025-08-23T13:47:31.662Z [ERROR] [ModalHandler] Erreur lors du traitement de la modale PDF | Data: {"model":"AMIPARIS","page":0,"error":"Unknown interaction"}
+2025-08-23T13:47:31.662Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_0","userId":"1121597557160824883"}
+2025-08-23T13:47:32.012Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_0","userId":"1121597557160824883"}
+2025-08-23T13:47:33.055Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"next_AMIPARIS_1","userId":"1121597557160824883"}
+2025-08-23T13:47:33.079Z [ERROR] [ButtonHandler] Erreur lors du passage à la page suivante | Data: {"model":"AMIPARIS","page":1,"error":"Interaction has already been acknowledged."}
+2025-08-23T13:47:33.245Z [ERROR] [ButtonHandler] Impossible de répondre avec un message d'erreur | Data: {"error":"Interaction has already been acknowledged."}
+2025-08-23T13:47:33.245Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"next_AMIPARIS_1","userId":"1121597557160824883"}
+2025-08-23T13:47:39.415Z [ERROR] [ModalHandler] Erreur lors du traitement de la modale PDF | Data: {"model":"AMIPARIS","page":1,"error":"Unknown interaction"}
+2025-08-23T13:47:39.416Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_1","userId":"1121597557160824883"}
+2025-08-23T13:47:40.177Z [INFO] [ModalHandler] PDF généré avec succès | Data: {"model":"AMIPARIS","userId":"1121597557160824883","fieldsCount":7}
+2025-08-23T13:47:40.177Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_1","userId":"1121597557160824883"}
+2025-08-23T18:09:00.979Z [DEBUG] [Autocomplete] Autocomplétion réussie | Data: {"commandName":"pdf","choicesCount":4}
+2025-08-23T18:09:03.706Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"pdf","userId":"1105220962661703731","guildId":"1401674447194292284"}
+2025-08-23T18:09:04.789Z [INFO] [ButtonHandler] Modale PDF affichée | Data: {"model":"MONCLER","fieldsCount":9,"userId":"1105220962661703731"}
+2025-08-23T18:09:04.789Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"pdf_modal_MONCLER","userId":"1105220962661703731"}
+2025-08-23T18:09:15.094Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_MONCLER_0","userId":"1105220962661703731"}
+2025-08-23T18:09:16.407Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"next_MONCLER_1","userId":"1105220962661703731"}
+2025-08-23T18:09:21.783Z [INFO] [ModalHandler] PDF généré avec succès | Data: {"model":"MONCLER","userId":"1105220962661703731","fieldsCount":9}
+2025-08-23T18:09:21.784Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_MONCLER_1","userId":"1105220962661703731"}
+2025-08-23T18:10:25.147Z [DEBUG] [Autocomplete] Autocomplétion réussie | Data: {"commandName":"pdf","choicesCount":4}
+2025-08-23T18:10:27.661Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"pdf","userId":"1105220962661703731","guildId":"1401674447194292284"}
+2025-08-23T18:10:28.878Z [INFO] [ButtonHandler] Modale PDF affichée | Data: {"model":"AMIPARIS","fieldsCount":7,"userId":"1105220962661703731"}
+2025-08-23T18:10:28.879Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"pdf_modal_AMIPARIS","userId":"1105220962661703731"}
+2025-08-23T18:10:35.273Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_0","userId":"1105220962661703731"}
+2025-08-23T18:10:36.748Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"next_AMIPARIS_1","userId":"1105220962661703731"}
+2025-08-23T18:10:40.915Z [INFO] [ModalHandler] PDF généré avec succès | Data: {"model":"AMIPARIS","userId":"1105220962661703731","fieldsCount":7}
+2025-08-23T18:10:40.915Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_1","userId":"1105220962661703731"}
+2025-08-23T18:11:24.369Z [DEBUG] [Autocomplete] Autocomplétion réussie | Data: {"commandName":"pdf","choicesCount":4}
+2025-08-23T18:11:27.670Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"pdf","userId":"1105220962661703731","guildId":"1401674447194292284"}
+2025-08-23T18:11:28.631Z [INFO] [ButtonHandler] Modale PDF affichée | Data: {"model":"AMIPARIS","fieldsCount":7,"userId":"1105220962661703731"}
+2025-08-23T18:11:28.632Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"pdf_modal_AMIPARIS","userId":"1105220962661703731"}
+2025-08-23T18:11:31.297Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_0","userId":"1105220962661703731"}
+2025-08-23T18:11:32.900Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"next_AMIPARIS_1","userId":"1105220962661703731"}
+2025-08-23T18:11:37.310Z [INFO] [ModalHandler] PDF généré avec succès | Data: {"model":"AMIPARIS","userId":"1105220962661703731","fieldsCount":1}
+2025-08-23T18:11:37.311Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_1","userId":"1105220962661703731"}
+2025-08-23T18:13:33.395Z [DEBUG] [Autocomplete] Autocomplétion réussie | Data: {"commandName":"pdf","choicesCount":4}
+2025-08-23T18:13:36.040Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"pdf","userId":"1105220962661703731","guildId":"1401674447194292284"}
+2025-08-23T18:13:37.910Z [INFO] [ButtonHandler] Modale PDF affichée | Data: {"model":"AMIPARIS","fieldsCount":7,"userId":"1105220962661703731"}
+2025-08-23T18:13:37.910Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"pdf_modal_AMIPARIS","userId":"1105220962661703731"}
+2025-08-23T18:13:43.275Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_0","userId":"1105220962661703731"}
+2025-08-23T18:13:44.551Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"next_AMIPARIS_1","userId":"1105220962661703731"}
+2025-08-23T18:13:48.648Z [INFO] [ModalHandler] PDF généré avec succès | Data: {"model":"AMIPARIS","userId":"1105220962661703731","fieldsCount":2}
+2025-08-23T18:13:48.648Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_AMIPARIS_1","userId":"1105220962661703731"}

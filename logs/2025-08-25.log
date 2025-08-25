@@ -1,0 +1,14 @@
+2025-08-25T19:50:00.591Z [DEBUG] [Autocomplete] Autocomplétion réussie | Data: {"commandName":"pdf","choicesCount":5}
+2025-08-25T19:50:03.233Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"pdf","userId":"1105220962661703731","guildId":"1401674447194292284"}
+2025-08-25T19:50:04.559Z [INFO] [ButtonHandler] Modale PDF affichée | Data: {"model":"NOCIBE","fieldsCount":16,"userId":"1105220962661703731"}
+2025-08-25T19:50:04.559Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"pdf_modal_NOCIBE","userId":"1105220962661703731"}
+2025-08-25T19:50:22.195Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_NOCIBE_0","userId":"1105220962661703731"}
+2025-08-25T19:50:23.855Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"next_NOCIBE_1","userId":"1105220962661703731"}
+2025-08-25T19:50:30.758Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_NOCIBE_1","userId":"1105220962661703731"}
+2025-08-25T19:50:32.040Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"next_NOCIBE_2","userId":"1105220962661703731"}
+2025-08-25T19:50:37.885Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_NOCIBE_2","userId":"1105220962661703731"}
+2025-08-25T19:50:39.197Z [DEBUG] [ButtonHandler] Bouton traité avec succès | Data: {"customId":"next_NOCIBE_3","userId":"1105220962661703731"}
+2025-08-25T19:50:43.416Z [INFO] [ModalHandler] PDF généré avec succès | Data: {"model":"NOCIBE","userId":"1105220962661703731","fieldsCount":16}
+2025-08-25T19:50:43.417Z [INFO] [ModalHandler] Modale traitée avec succès | Data: {"customId":"modal_NOCIBE_3","userId":"1105220962661703731"}
+2025-08-25T19:51:32.919Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"ticket","userId":"1105220962661703731","guildId":"1401674447194292284"}
+2025-08-25T20:04:23.235Z [INFO] [SlashCommands] Commande exécutée avec succès | Data: {"commandName":"ticket","userId":"1105220962661703731","guildId":"1401674447194292284"}
